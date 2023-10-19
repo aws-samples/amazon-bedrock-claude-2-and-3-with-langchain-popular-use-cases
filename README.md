@@ -19,8 +19,6 @@ Notebook `Amazon Bedrock & Langchain Sample Solutions.ipynb` containing sample s
 
 `investmate-ai` is a simple demo that allow user to upload a PDF (e.g. public financial statement of any company) and ask question about the content.
 
-`personal-writer` is a simple demo that allow user to create multimodal content e.g. blog post with text & images
-
 ### Getting started
 Set up environment variables by run the below in your terminal, using value from your own AWS account that has BedRock access
 

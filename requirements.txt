@@ -1,0 +1,9 @@
+langchain
+unstructured
+pandas
+tiktoken
+transformers
+faiss-cpu
+langchain_experimental
+InstructorEmbedding
+google-api-python-client
