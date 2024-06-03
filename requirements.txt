@@ -1,4 +1,5 @@
 langchain
+langchain-aws
 unstructured
 pandas
 tiktoken
